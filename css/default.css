@@ -1,0 +1,149 @@
+
+
+body {
+   background: #f5f5f5 url('../images/wood_pattern.png');
+}
+.labell {
+  /*Position*/
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+  position: relative;
+  margin: 20px;
+
+  /*Skin*/
+  border: 7px solid #fff;
+  -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.5), 0px 10px 7px rgba(0,0,0,0.2);
+     -moz-box-shadow: 0px 2px 4px rgba(0,0,0,0.5), 0px 10px 7px rgba(0,0,0,0.2);
+          box-shadow: 0px 2px 4px rgba(0,0,0,0.5), 0px 10px 7px rgba(0,0,0,0.2);
+}
+
+img{
+	width: 250px;
+	 height: 350px;
+}
+/*Extra Padding Fix*/
+.labell img {
+  display: block;
+}
+.labell p {
+  /*Position*/
+  position: absolute;
+  padding: 10px;
+  width: 100%;
+
+  /*Skin*/
+  background: #000; /*fallback*/
+  background: rgba(0,0,0,0.7);
+  color: #fff;
+  font: bold italic 18px/1.5 Helvtica, Verdana, sans-serif;
+
+  /*Animation*/
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+/*TOP LABEL*/
+.top p {
+  top: -50%;
+}
+
+.top:hover p {
+  top: 0%;
+}
+
+/*BOTTOM LABEL*/
+.bottom p {
+  bottom: -50%;
+}
+
+.bottom:hover p {
+  bottom: 0%;
+}
+/*BOTTOM LEFT LABEL*/
+.bottomleft p {
+  bottom: 10%;
+  left: -150%;
+}
+
+.bottomleft:hover p {
+  left: 0%;
+}
+
+/*BOTTOM RIGHT LABEL*/
+.bottomright p {
+  bottom: 0%;
+  left: 150%;
+}
+
+.bottomright:hover p {
+  left: 0%;
+}
+
+/*TOP LEFT LABEL*/
+.topleft p {
+  top: 0%;
+  left: -150%;
+}
+
+.topleft:hover p {
+  left: 0%;
+}
+
+/*TOP RIGHT LABEL*/
+.topright p {
+  top: 0%;
+  left: 150%;
+}
+
+.topright:hover p {
+  left: 0%;
+}
+
+
+
+
+
+/*CENTER FROM TOP*/
+.centertop p {
+   top: -50%;
+}
+
+.centertop:hover p {
+   top: 50%;
+   margin-top: -20px;
+}
+
+/*CENTER FROM BOTTOM*/
+.centerbottom p {
+   bottom: -50%;
+}
+
+.centerbottom:hover p {
+   bottom: 50%;
+   margin-bottom: -20px;
+}
+
+/*CENTER FROM LEFT*/
+.centerleft p {
+   top: 50%;
+   left: -150%;
+   margin-top: -20px;
+}
+
+.centerleft:hover p {
+   left: 0%;
+}
+
+/*CENTER FROM RIGHT*/
+.centerright p {
+   top: 50%;
+   left: 150%;
+   margin-top: -20px;
+}
+
+.centerright:hover p {
+   left: 0%;
+}
