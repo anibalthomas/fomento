@@ -66,7 +66,7 @@
                     <li>  Etapa 6 Congreso.<br>
 
                     <ul><li>En esta etapa, los niños y jóvenes que deseen participar, realizan una presentación acerca de sus resultados
-                       (modalidad oral) dentro de un auditorio. Los niños y jóvenes restantes presentan un cartel en el cual resumen sus resultados.
+                       (ponencia) dentro de un auditorio. Los niños y jóvenes restantes presentan un cartel en el cual resumen sus resultados.
                         El contenido del cartel, así como la presentación, se trabajan entre el participante y su tutor académico.
                     </ul>
                 </ul>
@@ -83,7 +83,7 @@
               <ul type="disk">
                     <li>  	Etapa 8 Evaluación de Programa.<br>
 
-                    <ul><li>o	Con el fin de mejorar el programa, se realiza una evaluación para analizar las fortalezas y debilidades que se tienen.
+                    <ul><li>Con el fin de mejorar el programa, se realiza una evaluación para analizar las fortalezas y debilidades que se tienen.
                       El tutor académico, el niño y/o joven participante, así como las escuelas de donde provienen son los evaluadores.
                     </ul>
                 </ul>

@@ -9,6 +9,7 @@
       <div id="der1">
         <h3> Objetivos </h3>
         <h5>  <ul type="disk">
+<li>	Dar continuidad al Programa de Fomento al Interés por la Carrera Cientifica y Tecnológica, a traves del Programa de Formación Cientifica Temprana.<br>
 <li>	Proveer a niños y jóvenes y sociedad en general conocimientos, valores, actitudes, intereses, opiniones asociadas con la ciencia y la tecnología.<br>
 <li>	Generar los programas educativos que tienen como fin potenciar la cultura científica y contribuyan a la educación científica efectiva y de calidad.<br>
 <li>	Desarrollar programas y métodos interactivos y experimentales para la presentación de la ciencia y la tecnología a niños y jóvenes.<br>

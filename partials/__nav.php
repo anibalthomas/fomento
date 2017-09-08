@@ -13,7 +13,7 @@
     <li class="dropdown"><a href="javascript:void(0)" onclick="reclutamiento();">Centro de Reclutamiento<b class="caret"></b></a>
       <ul class="dropdown-content">
          <li><a href="javascript:void(0)" onclick="objetivos();">Objetivos</a></li>
-         <li><a href="javascript:void(0)" onclick="inscribirme();">Como inscribirme</a></li>
+         <li><a href="javascript:void(0)" onclick="inscribirme();">Cómo inscribirme</a></li>
          <li><a href="javascript:void(0)" onclick="informes();">Mayores informes</a></li>
       </ul>
     </li>

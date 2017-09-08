@@ -7,10 +7,10 @@
 
 <div id="grupo1">
       <div id="der1">
-        <h3> Como Inscribirme</h3>
+        <h3> Cómo Inscribirme</h3>
         <h5>
           1.	Haber participado en alguna emisión del Programa “Fomento al Interés por la Carrera Científica y Tecnológica en Niños y Jóvenes” del INECOL.<br>
-          2.	Tener entre 15 y 16 años de edad o cursar actualmente 1°/2° año de preparatoria.<br>
+          2.	Tener entre 12 y 16 años o cursar de 1° de secundaria a 3° de bachillerato.<br>
           3.	<strong>CUANDO SE ABRA LA CONVOCATORIA</strong><br>
           Enviar a  la dirección de correo electrónico <a href="mailto:name@email.com"><u>andrea.farias@inecol.mx</u></a> los siguientes datos y documentos:<br>
           <ul type=disk>
